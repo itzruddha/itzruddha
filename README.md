@@ -54,14 +54,14 @@ I’m a Backend Web Developer with **3.8 years of experience**, primarily workin
 
 ### 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=itzruddha&show_icons=true&theme=dark)
 
 ---
 
 ### 📫 Let's Connect
 
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/aniruddhamandal01)
-- **Twitter:** [@yourusername](https://twitter.com/itzruddha)
+- **Twitter:** [@itzruddha](https://twitter.com/itzruddha)
 
 ---
 
